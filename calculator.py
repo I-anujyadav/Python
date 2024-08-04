@@ -1,7 +1,7 @@
 #Calculator by using if else
 
 a=float(input("enter the first number"))
-b=float(input("enter the second"))
+b=float(input("enter the second number"))
 c=input("enter the operator")
 
 if c == '+':
